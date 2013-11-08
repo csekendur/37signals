@@ -1,0 +1,174 @@
+
+/*Questions: how do I get the icon on the tab to change? Associate page w domain/host. 
+Notes: make h3 and boxes not wrap*/
+
+
+body {
+	background-color: #fff;
+}
+
+.top {
+	list-style-type: none;
+	margin:10px 0px 0px 0px;
+	min-width:550px;
+	color:#369;
+	position:relative;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	font-size:12px;
+	text-decoration:none;
+	float:right;
+	display: block;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+#signIn {
+	color:#18afe0;
+
+}
+
+#signIn:hover {
+	color:#369;
+}
+
+#day {
+	position: relative;
+	float:left;
+	clear:both;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	font-size:12px;
+	text-decoration: none;
+	color:gray;
+	left:50px;
+	top:10px;
+
+}
+
+li {
+	position:relative;
+	display:inline;
+	margin-right: 25px;
+	top:10px;
+	text-decoration: none;
+
+}
+
+#logo {
+	clear:both;
+	position: relative;
+	text-align: center;
+	top:30px;
+	white-space: nowrap;
+
+}
+
+h1 {
+	position: relative;
+	margin:0 auto;
+	width:950px;
+	text-align: center;
+	top:40px;
+	font-size: 58px;
+	font-family:"CrimsonSemibold", "Times New Roman", Georgia, serif;
+}
+
+h5 {
+	position: relative;
+	text-align:center;
+	white-space: nowrap;
+	top:30px;
+	font-size:20px;
+	font-family:"CrimsonSemibold", "Times New Roman", Georgia, serif;
+}
+
+.products {
+	width:170px;
+	height:230px;
+	border:1px solid #e8e8e8;
+	border-radius: 5px;
+	text-align: center;
+	display:inline-block;
+	position: relative;
+	margin-right: 30px;
+	top:30px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	background: linear-gradient(to bottom, #fff, #efefef);
+	box-shadow: 0 0 5px #efefef;
+	padding-top: 20px;
+
+
+}
+
+.productBox {
+	text-align: center;
+	min-width: 900px;
+
+
+}
+
+.title {
+	position:relative;
+	top:10px;
+	color:#369;
+	text-decoration:underline;
+	font-size:21px;
+
+}
+
+.productDescription {
+	position:relative;
+	top:10px;
+	color:#cc0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.productTag {
+	position:relative;
+	top:10px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 15px;
+}
+
+}
+
+.icon {
+	display:block;
+	position:relative;
+	left:32px;
+	top:10px;
+
+}
+
+hr {
+	background: url('./images/img-hr.png') no-repeat;
+	position: relative;
+	top:50px;
+	color:transparent;
+	border:0;
+	left:560px;
+	clear:both;
+	height: 12px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
